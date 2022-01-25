@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "name": "curso-webpack-react",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdalZanabria/curso-webpack-react.git"
+  },
+  "keywords": [],
+  "author": "Adalberto Zanabria Castro <adal.zanabria@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdalZanabria/curso-webpack-react/issues"
+  },
+  "homepage": "https://github.com/AdalZanabria/curso-webpack-react#readme"
+}
